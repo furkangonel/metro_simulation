@@ -1,4 +1,8 @@
-# metro_simulation
+# Metro Simülasyon
+
+
+[![GitHub issues](https://img.shields.io/github/issues/furkangonel/metro_simulation)](https://github.com/furkangonel/metro_simulation/issues)  
+[![GitHub stars](https://img.shields.io/github/stars/furkangonel/metro_simulation)](https://github.com/furkangonel/metro_simulation/stargazers) 
 
 ### Açıklama:
 Bu proje, BFS (Breadth First Search) ve A* (A-Star) algoritmalarını kullanarak bir metro ağında en kısa rotayı ve an az aktarmalı yolu bulan bir simülasyon uygulamasıdır.
@@ -53,7 +57,7 @@ BFS' den farklı olarak, her istasyonun tahmini bir maliyetini (heuristic) hesap
 *Bağlantıların Görselleştirilmesi*
 
 <p align="center">
-  <img src="assets/metro_sim_graph.png" width="200">
+  <img src="assets/metro_sim_graph.png" width="350">
 </p>
 
 
